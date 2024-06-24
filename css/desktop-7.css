@@ -1,0 +1,370 @@
+.desktop-7-child {
+  position: absolute;
+  top: 142px;
+  left: 53px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 1312px;
+  height: 98px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 154px;
+  left: 99px;
+  width: 82px;
+  height: 73px;
+  object-fit: cover;
+}
+.desktop-7-item,
+.diseases {
+  position: absolute;
+  top: 389px;
+  height: 60px;
+}
+.desktop-7-item {
+  left: 145px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-lightskyblue);
+  width: 1028px;
+}
+.diseases {
+  left: 548px;
+  font-weight: 500;
+  display: inline-block;
+  width: 216px;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 80px;
+  height: 80px;
+}
+.group-icon {
+  position: absolute;
+  height: 48.28%;
+  width: 23.02%;
+  top: 30.33%;
+  right: 37.9%;
+  bottom: 21.39%;
+  left: 39.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-button,
+.input {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.group-button {
+  cursor: pointer;
+  padding: 0;
+  top: 17px;
+  left: 40px;
+  width: 80px;
+  height: 80px;
+}
+.input {
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-13xl);
+  top: 165px;
+  left: 203px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 1085px;
+  height: 62px;
+}
+.desktop-7-inner {
+  position: absolute;
+  top: 336.5px;
+  left: 28.5px;
+  border-top: 5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 1329px;
+  height: 5px;
+}
+.desktop-7-child1,
+.group-child3 {
+  position: absolute;
+  top: 276px;
+  left: 270px;
+  background-color: var(--color-cornflowerblue);
+  width: 239px;
+  height: 58px;
+}
+.group-child3 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-lavender);
+  width: 230px;
+  cursor: pointer;
+}
+.categories {
+  position: absolute;
+  top: 13px;
+  left: 22px;
+  font-weight: 500;
+  display: inline-block;
+  width: 185px;
+  height: 40px;
+}
+.diseases1,
+.rectangle-parent1 {
+  position: absolute;
+  top: 275px;
+  left: 40px;
+  width: 230px;
+  height: 58px;
+  font-size: var(--font-size-13xl);
+}
+.diseases1 {
+  top: 285px;
+  left: 299px;
+  font-weight: 500;
+  display: inline-block;
+  width: 168px;
+  height: 40px;
+}
+.desktop-7-child2,
+.desktop-7-child3,
+.desktop-7-child4 {
+  position: absolute;
+  top: 872px;
+  left: 0;
+  background-color: var(--color-deepskyblue);
+  width: 1385px;
+  height: 332px;
+}
+.desktop-7-child3,
+.desktop-7-child4 {
+  top: 1254px;
+}
+.desktop-7-child4 {
+  top: 1636px;
+}
+.diarrhea {
+  position: absolute;
+  top: 872px;
+  left: 548px;
+  font-weight: 500;
+  display: inline-block;
+  width: 329px;
+  height: 74px;
+}
+.image-26-icon {
+  position: absolute;
+  top: 960px;
+  left: 99px;
+  border-radius: var(--br-71xl);
+  width: 468px;
+  height: 236.03px;
+  object-fit: cover;
+}
+.diabetes {
+  position: absolute;
+  top: 1252px;
+  left: 548px;
+  font-weight: 500;
+  display: inline-block;
+  width: 329px;
+  height: 74px;
+}
+.image-27-icon {
+  position: absolute;
+  top: 1346px;
+  left: 99px;
+  border-radius: var(--br-71xl);
+  width: 468px;
+  height: 203.16px;
+  object-fit: cover;
+}
+.hivaids {
+  position: absolute;
+  top: 1639px;
+  left: 548px;
+  font-weight: 500;
+  display: inline-block;
+  width: 329px;
+  height: 74px;
+}
+.symptoms {
+  margin: 0;
+}
+.stomach-pain {
+  margin-bottom: 0;
+}
+.span6 {
+  font-size: 36px;
+}
+.stomach-pain-swelling-bloati {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  padding-left: var(--padding-24xl);
+}
+.symptoms-feeling-more-container,
+.symptoms-muscle-aches-container,
+.symptoms-stomach-pain-container {
+  position: absolute;
+  top: 936px;
+  left: 605px;
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 1385px;
+  height: 264px;
+  font-size: var(--font-size-15xl);
+}
+.symptoms-feeling-more-container,
+.symptoms-muscle-aches-container {
+  top: 1314px;
+}
+.symptoms-muscle-aches-container {
+  top: 1704px;
+  left: 602px;
+}
+.desktop-7-child5 {
+  position: absolute;
+  top: 2024px;
+  left: 0;
+  background-color: var(--color-deepskyblue);
+  width: 1385px;
+  height: 332px;
+}
+.symptoms-cough-coughing-container,
+.tuberculosis {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.symptoms-cough-coughing-container {
+  top: 2086px;
+  left: 602px;
+  font-family: var(--font-inherit);
+  width: 725px;
+  height: 264px;
+  font-size: var(--font-size-15xl);
+}
+.tuberculosis {
+  top: 2026px;
+  left: 548px;
+  width: 329px;
+  height: 74px;
+}
+.desktop-7-child6,
+.desktop-7-child7,
+.desktop-7-child8,
+.line-div {
+  position: absolute;
+  top: 937.5px;
+  left: 34.48px;
+  border-top: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1323px;
+  height: 5px;
+}
+.desktop-7-child6,
+.desktop-7-child7,
+.desktop-7-child8 {
+  top: 1317.5px;
+}
+.desktop-7-child7,
+.desktop-7-child8 {
+  top: 1704.5px;
+}
+.desktop-7-child8 {
+  top: 2093.5px;
+}
+.image-23-icon,
+.image-24-icon {
+  position: absolute;
+  top: 1728px;
+  left: 99px;
+  border-radius: var(--br-71xl);
+  width: 468px;
+  height: 216px;
+  object-fit: cover;
+}
+.image-23-icon {
+  top: 2114px;
+  height: 220px;
+}
+.chickenpox-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-deepskyblue);
+  width: 1385px;
+  height: 332px;
+}
+.chickenpox1,
+.symptoms-fever-headache-container {
+  position: absolute;
+  top: 0;
+  left: 548px;
+  font-weight: 500;
+  display: inline-block;
+  width: 329px;
+  height: 74px;
+}
+.symptoms-fever-headache-container {
+  top: 63px;
+  left: 602px;
+  font-family: var(--font-inherit);
+  width: 1385px;
+  height: 264px;
+  font-size: var(--font-size-15xl);
+}
+.chickenpox-item {
+  position: absolute;
+  top: 60.5px;
+  left: 34.48px;
+  border-top: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1323px;
+  height: 5px;
+}
+.image-25-icon {
+  position: absolute;
+  top: 73px;
+  left: 160px;
+  border-radius: var(--br-71xl);
+  width: 322px;
+  height: 259px;
+  object-fit: cover;
+}
+.chickenpox {
+  position: absolute;
+  top: 490px;
+  left: 0;
+  width: 1987px;
+  height: 332px;
+  cursor: pointer;
+}
+.desktop-7 {
+  position: relative;
+  background: linear-gradient(
+    156.63deg,
+    #87cdec,
+    rgba(125, 198, 229, 0.78) 23.44%,
+    rgba(119, 185, 214, 0.9) 38.54%,
+    rgba(84, 171, 209, 0.98) 51.56%,
+    #6aabc7 66.67%,
+    rgba(0, 71, 102, 0.66) 89.06%,
+    rgba(0, 110, 157, 0.54) 96.88%,
+    rgba(255, 255, 255, 0.49),
+    rgba(80, 185, 231, 0.76)
+  );
+  width: 100%;
+  height: 2398px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

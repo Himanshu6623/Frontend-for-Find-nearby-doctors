@@ -1,0 +1,138 @@
+.desktop-4-child,
+.desktop-4-item {
+  position: absolute;
+  top: 571px;
+  left: 348px;
+  background-color: var(--color-lightskyblue);
+  border: 5px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 729px;
+  height: 68px;
+}
+.desktop-4-item {
+  top: 383px;
+}
+.desktop-4-inner,
+.login2 {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.desktop-4-inner {
+  border: 5px solid var(--color-whitesmoke-100);
+  background-color: var(--color-lightskyblue);
+  top: 801px;
+  left: 355px;
+  box-sizing: border-box;
+  width: 729px;
+  height: 61.89px;
+}
+.login2 {
+  border: 0;
+  background-color: transparent;
+  top: 802px;
+  left: 648px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: #fefefe;
+  text-align: left;
+  display: inline-block;
+  width: 143px;
+  height: 61px;
+}
+.desktop-4-child1 {
+  position: absolute;
+  top: 383.5px;
+  left: 422.5px;
+  border-right: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 5px;
+  height: 70px;
+}
+.frame-icon {
+  position: absolute;
+  top: 571px;
+  left: 425px;
+  width: 5px;
+  height: 65px;
+}
+.image-21-icon,
+.image-22-icon {
+  position: absolute;
+  top: 387px;
+  left: 348px;
+  width: 90px;
+  height: 65px;
+  object-fit: cover;
+}
+.image-22-icon {
+  top: 571px;
+}
+.enter-your-email,
+.enter-your-password {
+  border: 0;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-21xl);
+  background-color: transparent;
+  position: absolute;
+  top: 390px;
+  left: 438px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 632px;
+  height: 55px;
+}
+.enter-your-password {
+  top: 579px;
+}
+.image-20-icon2 {
+  position: absolute;
+  top: 117px;
+  left: 537px;
+  border-radius: 293px;
+  width: 334px;
+  height: 185px;
+  object-fit: cover;
+}
+.group-child13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 80px;
+  height: 80px;
+}
+.group-icon3 {
+  position: absolute;
+  height: 42.38%;
+  width: 23.33%;
+  top: 30%;
+  right: 36.67%;
+  bottom: 27.62%;
+  left: 40%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 37px;
+  left: 31px;
+  width: 80px;
+  height: 80px;
+}
+.desktop-4 {
+  position: relative;
+  background: linear-gradient(117.8deg, #0babf0, rgba(255, 255, 255, 0.53));
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+}

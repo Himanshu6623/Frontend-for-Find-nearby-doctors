@@ -1,0 +1,322 @@
+.dr-pediatrician-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  width: 1353px;
+  height: 694px;
+}
+.dr-eijah3,
+.specialist-chickenpox {
+  position: absolute;
+  top: 106.89px;
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 511.09px;
+  height: 69.89px;
+}
+.dr-eijah3 {
+  top: 0;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 499.48px;
+  height: 86.33px;
+}
+.button-item,
+.text4 {
+  position: absolute;
+  top: 80px;
+  left: 491px;
+  width: 511.09px;
+  height: 176.78px;
+}
+.button-item {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-deepskyblue);
+}
+.book-now1 {
+  position: absolute;
+  height: 36.26%;
+  width: 41.03%;
+  top: 31.45%;
+  left: 31.69%;
+  font-weight: 500;
+  display: inline-block;
+}
+.button2 {
+  position: absolute;
+  top: 444.71px;
+  left: 395.8px;
+  border-radius: var(--br-26xl);
+  width: 565.43px;
+  height: 118.59px;
+  cursor: pointer;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+}
+.image3,
+.rectangle-icon,
+.star-icon3 {
+  position: absolute;
+  width: 371.57px;
+  height: 322.41px;
+}
+.rectangle-icon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  object-fit: cover;
+}
+.image3,
+.star-icon3 {
+  top: 66.71px;
+  left: 76.74px;
+}
+.star-icon3 {
+  height: 8.65%;
+  width: 28.6%;
+  top: 42.36%;
+  right: 34.15%;
+  bottom: 48.99%;
+  left: 37.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dr-pediatrician3,
+.group-child7 {
+  position: absolute;
+  top: 124px;
+  left: 16px;
+  width: 1353px;
+  height: 694px;
+}
+.group-child7 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 80px;
+  height: 80px;
+}
+.group-icon3 {
+  position: absolute;
+  height: 43.47%;
+  width: 23.02%;
+  top: 24.94%;
+  right: 37.9%;
+  bottom: 31.59%;
+  left: 39.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 19px;
+  left: 37px;
+  width: 80px;
+  height: 80px;
+}
+.doctor-details1 {
+  position: absolute;
+  top: 34px;
+  left: 147px;
+  letter-spacing: -0.3px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 317px;
+  height: 65px;
+}
+.map-icon1 {
+  position: absolute;
+  top: 1124px;
+  left: 0;
+  width: 1385px;
+  height: 1035px;
+}
+.patient-item,
+.tab-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+}
+.tab-item {
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  width: 1353px;
+  height: 228px;
+}
+.patient-item {
+  background-color: var(--color-lightgray);
+  width: 399.25px;
+  height: 173.71px;
+  opacity: 0.12;
+}
+.div3,
+.patient3 {
+  position: absolute;
+  top: 99.86px;
+  left: 142.17px;
+  letter-spacing: -0.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 195.19px;
+  height: 46.14px;
+}
+.div3 {
+  top: 26.86px;
+  left: 163.17px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 146.39px;
+  height: 57px;
+}
+.div4,
+.ongoing3,
+.patient2 {
+  position: absolute;
+  top: 27.14px;
+  left: 913.83px;
+  width: 399.25px;
+  height: 173.71px;
+}
+.div4,
+.ongoing3 {
+  top: 99.86px;
+  left: 135.91px;
+  letter-spacing: -0.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 223px;
+  height: 41px;
+}
+.div4 {
+  top: 26.86px;
+  left: 164.91px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 115px;
+  height: 57px;
+}
+.div5,
+.ongoing2,
+.runing3 {
+  position: absolute;
+  top: 27.14px;
+  left: 479.09px;
+  width: 399.25px;
+  height: 173.71px;
+}
+.div5,
+.runing3 {
+  top: 92.86px;
+  left: 120.64px;
+  letter-spacing: -0.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 195.19px;
+  height: 46.14px;
+}
+.div5 {
+  top: 26.86px;
+  left: 147.64px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 141.95px;
+  height: 57px;
+}
+.runing2,
+.tab1 {
+  position: absolute;
+  top: 27.14px;
+  left: 44.36px;
+  width: 399.25px;
+  height: 173.71px;
+}
+.tab1 {
+  top: 862px;
+  left: 16px;
+  width: 1353px;
+  height: 228px;
+  font-size: var(--font-size-23xl);
+}
+.rs-5003 {
+  font-weight: 500;
+}
+.hr3 {
+  font-weight: 300;
+  color: var(--color-slategray-300);
+}
+.rs-50000hr3 {
+  position: absolute;
+  top: 418px;
+  left: 994px;
+  letter-spacing: -0.3px;
+  display: inline-block;
+  width: 298.14px;
+  height: 82.22px;
+  color: var(--color-darkslategray);
+}
+.image-28-icon1 {
+  position: absolute;
+  top: 45px;
+  left: 61px;
+  width: 51px;
+  height: 45px;
+  object-fit: cover;
+}
+.image-28-group,
+.reviews1 {
+  position: absolute;
+  width: 167px;
+}
+.reviews1 {
+  top: 0;
+  left: 0;
+  letter-spacing: -0.3px;
+  display: inline-block;
+  height: 45px;
+}
+.image-28-group {
+  top: 708px;
+  left: 608px;
+  height: 90px;
+  font-size: var(--font-size-23xl);
+  color: var(--color-black);
+}
+.desktop-10 {
+  position: relative;
+  background: linear-gradient(
+    161.55deg,
+    rgba(11, 171, 240, 0.81),
+    rgba(100, 202, 245, 0.57) 17.71%,
+    rgba(180, 232, 254, 0.63) 30.21%,
+    rgba(181, 233, 255, 0.62) 50.26%,
+    rgba(250, 253, 255, 0.47) 76.06%,
+    rgba(179, 210, 217, 0.49)
+  );
+  width: 100%;
+  height: 2159px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-slategray-100);
+  font-family: var(--font-rubik);
+}

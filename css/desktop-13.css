@@ -1,0 +1,423 @@
+.desktop-13-child,
+.group-child2 {
+  position: absolute;
+  top: 762px;
+  left: 37px;
+  background-color: var(--color-white);
+  width: 1372px;
+  height: 1356px;
+}
+.group-child2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 80px;
+  height: 80px;
+}
+.group-icon {
+  position: absolute;
+  height: 43.47%;
+  width: 23.02%;
+  top: 24.94%;
+  right: 37.9%;
+  bottom: 31.59%;
+  left: 39.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 23px;
+  left: 24px;
+  width: 80px;
+  height: 80px;
+}
+.appointment {
+  position: absolute;
+  top: 38px;
+  left: 134px;
+  letter-spacing: -0.3px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 317px;
+  height: 65px;
+}
+.dr-pediatrician-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  width: 1385px;
+  height: 426px;
+}
+.dr-eijah,
+.specialist-cardiologist {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.3px;
+  display: inline-block;
+}
+.specialist-cardiologist {
+  top: 101.46px;
+  font-weight: 300;
+  color: var(--color-slategray-100);
+  width: 511.09px;
+  height: 66.34px;
+}
+.dr-eijah {
+  top: 0;
+  width: 499.48px;
+  height: 81.95px;
+}
+.dr-eijah,
+.rs-500 {
+  font-weight: 500;
+}
+.hr {
+  font-weight: 300;
+  color: var(--color-slategray-300);
+}
+.rs-50000hr {
+  position: absolute;
+  top: 202.92px;
+  left: 487.86px;
+  letter-spacing: -0.3px;
+  display: inline-block;
+  width: 298.14px;
+  height: 78.05px;
+}
+.text {
+  position: absolute;
+  top: 75.94px;
+  left: 491px;
+  width: 786px;
+  height: 280.97px;
+}
+.image,
+.image-child,
+.star-icon {
+  position: absolute;
+  width: 371.57px;
+  height: 306.04px;
+}
+.image-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  object-fit: cover;
+}
+.image,
+.star-icon {
+  top: 63.32px;
+  left: 76.74px;
+}
+.star-icon {
+  height: 13.37%;
+  width: 27.94%;
+  top: 65.51%;
+  right: 35.67%;
+  bottom: 21.12%;
+  left: 36.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dr-pediatrician {
+  position: absolute;
+  top: 160px;
+  left: 24px;
+  width: 1385px;
+  height: 426px;
+  color: var(--color-darkslategray);
+}
+.desktop-13-child1,
+.desktop-13-child2,
+.desktop-13-child3,
+.desktop-13-inner,
+.desktop-13-item {
+  position: absolute;
+  top: 874px;
+  left: 73px;
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1288px;
+  height: 88px;
+}
+.desktop-13-child1,
+.desktop-13-child2,
+.desktop-13-child3,
+.desktop-13-inner {
+  top: 1330px;
+  left: 76px;
+}
+.desktop-13-child1,
+.desktop-13-child2,
+.desktop-13-child3 {
+  top: 1102px;
+  left: 73px;
+  border: 1px solid var(--color-black);
+}
+.desktop-13-child2,
+.desktop-13-child3 {
+  top: 1566px;
+  left: 74px;
+}
+.desktop-13-child3 {
+  top: 1794px;
+}
+.appointment-date,
+.appointment-time,
+.contact-no,
+.patient-name,
+.patient-name1 {
+  position: absolute;
+  top: 802px;
+  left: 73px;
+  letter-spacing: -0.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 375px;
+  height: 72px;
+}
+.appointment-date,
+.appointment-time,
+.contact-no,
+.patient-name1 {
+  top: 1236px;
+  height: 84px;
+}
+.appointment-date,
+.appointment-time,
+.contact-no {
+  top: 1018px;
+}
+.appointment-date,
+.appointment-time {
+  top: 1482px;
+  left: 74px;
+}
+.appointment-time {
+  top: 1710px;
+}
+.desktop-13-child4 {
+  position: absolute;
+  top: 626px;
+  left: 37px;
+  background-color: var(--color-white);
+  width: 1372px;
+  height: 112px;
+}
+.schedule-appointment {
+  position: absolute;
+  top: 650px;
+  left: 448px;
+  font-size: var(--font-size-31xl);
+  letter-spacing: -0.3px;
+  font-weight: 500;
+  display: inline-block;
+  width: 637px;
+  height: 88px;
+}
+.desktop-13-child5 {
+  position: absolute;
+  top: 1946px;
+  left: 480px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-deepskyblue);
+  width: 484px;
+  height: 112px;
+}
+.schedule-now {
+  position: absolute;
+  top: 1972px;
+  left: 575px;
+  font-size: var(--font-size-26xl);
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 391px;
+  height: 60px;
+}
+.enter {
+  position: absolute;
+  top: 876px;
+  left: 73px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 1288px;
+  height: 88px;
+}
+.ente,
+.enter {
+  letter-spacing: -0.3px;
+}
+.r {
+  letter-spacing: 3px;
+}
+.enter-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.enter1,
+.enter2,
+.enter3,
+.enter4 {
+  position: absolute;
+  top: 1102px;
+  left: 73px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 1288px;
+  height: 88px;
+}
+.enter2,
+.enter3,
+.enter4 {
+  top: 1330px;
+  letter-spacing: -0.3px;
+}
+.enter3,
+.enter4 {
+  top: 1566px;
+  height: 84px;
+}
+.enter4 {
+  top: 1794px;
+}
+.thank-you-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #212121;
+  width: 1440px;
+  height: 2159px;
+  opacity: 0.79;
+}
+.group-child3,
+.thank-you-item {
+  position: absolute;
+  top: 476px;
+  left: 219px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-white);
+  width: 1033px;
+  height: 1112px;
+}
+.group-child3 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-deepskyblue);
+  width: 897px;
+  height: 131px;
+}
+.done {
+  position: absolute;
+  top: 30px;
+  left: 381px;
+  font-weight: 500;
+  display: inline-block;
+  width: 136.83px;
+  height: 41.24px;
+}
+.button,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 897px;
+  height: 131px;
+}
+.button {
+  top: 1388px;
+  left: 286px;
+  cursor: pointer;
+}
+.you-booked-an {
+  margin: 0;
+}
+.you-booked-an-container {
+  position: absolute;
+  top: 200px;
+  left: 15px;
+  letter-spacing: -0.3px;
+  line-height: 150%;
+  display: inline-block;
+  width: 1017.6px;
+  height: 178.14px;
+}
+.thank-you1,
+.your-appointment-successful {
+  position: absolute;
+  letter-spacing: -0.3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.your-appointment-successful {
+  top: 120px;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  width: 1032.96px;
+  height: 63.81px;
+}
+.thank-you1 {
+  top: 0;
+  left: 108px;
+  font-size: 70px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 816px;
+  height: 126px;
+}
+.text1 {
+  position: absolute;
+  top: 850px;
+  left: 219px;
+  width: 1032.96px;
+  height: 447.14px;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-slategray-100);
+}
+.thank-you,
+.thank-you-inner {
+  position: absolute;
+  top: 529px;
+  left: 458px;
+  width: 529.48px;
+  height: 343.11px;
+}
+.thank-you {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 2159px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+}
+.desktop-13 {
+  position: relative;
+  background: linear-gradient(
+    156.59deg,
+    rgba(11, 171, 240, 0.8),
+    rgba(231, 235, 246, 0.41) 67.19%,
+    rgba(255, 255, 255, 0.25) 96.35%
+  );
+  width: 100%;
+  height: 2159px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-rubik);
+}

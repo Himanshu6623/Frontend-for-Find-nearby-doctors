@@ -1,0 +1,535 @@
+.desktop-5-child {
+  position: absolute;
+  top: 214px;
+  left: 26px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 1312px;
+  height: 98px;
+}
+.image-201,
+.input2 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.image-201 {
+  cursor: pointer;
+  padding: 0;
+  top: 226px;
+  left: 72px;
+  width: 82px;
+  height: 73px;
+  background-image: url(./public/image20@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.input2 {
+  font-family: var(--font-stoke);
+  font-size: var(--font-size-13xl);
+  top: 241px;
+  left: 193px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 1076px;
+  height: 45px;
+}
+.desktop-5-item,
+.image-20-icon1 {
+  position: absolute;
+  top: 25px;
+  left: 1336px;
+  width: 76px;
+  cursor: pointer;
+}
+.desktop-5-item {
+  background-color: var(--color-white);
+  height: 77px;
+}
+.image-20-icon1 {
+  height: 81px;
+  object-fit: cover;
+}
+.available1 {
+  margin: 0;
+}
+.span32,
+.specialist {
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-pt-serif);
+}
+.specialist {
+  font-size: var(--font-size-37xl);
+}
+.cardiologist-specialist {
+  margin: 0;
+  font-size: 54px;
+  font-family: var(--font-pt-serif);
+}
+.available-cardiologist-special-container {
+  position: absolute;
+  top: 58px;
+  left: 26px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 592px;
+  height: 156px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-stoke);
+}
+.doctor-5-item {
+  position: absolute;
+  top: 118.58px;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  width: 1414px;
+  height: 351.64px;
+}
+.doctor-5-inner1,
+.group-child8 {
+  position: absolute;
+  width: 346.11px;
+  height: 277.25px;
+}
+.group-child8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  object-fit: cover;
+}
+.doctor-5-inner1 {
+  top: 155.77px;
+  left: 50.65px;
+}
+.dr-edward-wall1,
+.specialist-cardiologist2 {
+  position: absolute;
+  top: 94.67px;
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 552.94px;
+  height: 57.48px;
+}
+.dr-edward-wall1 {
+  top: 0;
+  font-size: var(--font-size-19xl);
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 561.38px;
+  height: 71px;
+}
+.span33 {
+  font-weight: 500;
+}
+.span34 {
+  font-family: var(--font-pt-sans);
+  color: var(--color-slategray-100);
+}
+.span35 {
+  font-size: var(--font-size-xs);
+}
+.span36 {
+  font-size: var(--font-size-sm);
+}
+.span37,
+.views12 {
+  font-size: var(--font-size-base);
+}
+.views12 {
+  position: absolute;
+  top: 175.82px;
+  left: 493.85px;
+  letter-spacing: -0.3px;
+  display: inline-block;
+  width: 422.09px;
+  height: 67.62px;
+  color: var(--color-black);
+}
+.specialist-cardiologist-container {
+  position: absolute;
+  top: 172.68px;
+  left: 4.27px;
+  width: 915.94px;
+  height: 243.44px;
+}
+.group-icon2,
+.star-icon5 {
+  position: absolute;
+  height: 8.9%;
+  width: 36.36%;
+  top: 474.76%;
+  right: 12.69%;
+  bottom: -383.66%;
+  left: 50.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon2 {
+  height: 12.61%;
+  width: 8.64%;
+  top: 0;
+  right: 2.73%;
+  bottom: 87.39%;
+  left: 88.64%;
+}
+.group-parent3 {
+  position: absolute;
+  top: 0;
+  left: 455.81px;
+  width: 920.21px;
+  height: 416.12px;
+}
+.doctor-4-item,
+.doctor-51 {
+  position: absolute;
+  top: 1463.78px;
+  left: 53px;
+  width: 1414px;
+  height: 470.22px;
+}
+.doctor-4-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  width: 1435px;
+  height: 351.64px;
+}
+.doctor-4-inner1,
+.group-child9 {
+  position: absolute;
+  width: 351.25px;
+  height: 277.25px;
+}
+.group-child9 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  object-fit: cover;
+}
+.doctor-4-inner1 {
+  top: 36.96px;
+  left: 72.71px;
+}
+.doctor-3-item,
+.doctor-41 {
+  position: absolute;
+  top: 1187px;
+  left: 32px;
+  width: 1435px;
+  height: 351.64px;
+}
+.doctor-3-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  width: 1450px;
+}
+.doctor-3-inner1,
+.group-child10 {
+  position: absolute;
+  width: 354.93px;
+  height: 292.33px;
+}
+.group-child10 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  object-fit: cover;
+}
+.doctor-3-inner1 {
+  top: 20.29px;
+  left: 65.27px;
+}
+.dr-austin,
+.specialist-cancer2 {
+  position: absolute;
+  top: 94.67px;
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 454.48px;
+  height: 57.48px;
+}
+.dr-austin {
+  top: 0;
+  font-size: var(--font-size-19xl);
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 476.12px;
+  height: 71px;
+}
+.specialist-cancer-container,
+.specialist-cancer-parent1 {
+  position: absolute;
+  top: 415px;
+  left: 0;
+  width: 476.12px;
+  height: 152.15px;
+}
+.specialist-cancer-parent1 {
+  top: 0;
+}
+.star-icon6,
+.star-icon7 {
+  position: absolute;
+  height: 5.68%;
+  width: 72.07%;
+  top: 30.67%;
+  right: 6.55%;
+  bottom: 63.65%;
+  left: 21.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.star-icon7 {
+  top: 94.32%;
+  bottom: 0;
+}
+.group-parent4 {
+  position: absolute;
+  top: 37px;
+  left: 487.09px;
+  width: 476.12px;
+  height: 652.03px;
+}
+.doctor-2-item,
+.doctor-31 {
+  position: absolute;
+  top: 793px;
+  left: 40px;
+  width: 1450px;
+  height: 689.03px;
+}
+.doctor-2-item {
+  top: 152px;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  width: 1443px;
+  height: 351.64px;
+}
+.doctor-2-inner1,
+.group-child11 {
+  position: absolute;
+  width: 353.21px;
+  height: 277.25px;
+}
+.group-child11 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  object-fit: cover;
+}
+.doctor-2-inner1 {
+  top: 189.78px;
+  left: 57.81px;
+}
+.dr-himanshu,
+.specialist-dentist1 {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.3px;
+  display: inline-block;
+}
+.specialist-dentist1 {
+  top: 301.36px;
+  font-weight: 300;
+  width: 452.28px;
+  height: 57.48px;
+  opacity: 0.3;
+}
+.dr-himanshu {
+  top: 206.69px;
+  font-size: var(--font-size-19xl);
+  width: 547.05px;
+  height: 71px;
+}
+.dr-himanshu,
+.span38 {
+  font-weight: 500;
+  color: var(--color-darkslategray);
+}
+.span39 {
+  font-size: var(--font-size-base);
+  font-family: var(--font-pt-sans);
+}
+.views15 {
+  color: var(--color-slategray-200);
+}
+.views14,
+.views16,
+.views18,
+.views20 {
+  position: absolute;
+  top: 396px;
+  left: 454.05px;
+  letter-spacing: -0.3px;
+  display: inline-block;
+  width: 430.75px;
+  height: 67.62px;
+}
+.views16,
+.views18,
+.views20 {
+  top: 792px;
+  left: 504.05px;
+}
+.views18,
+.views20 {
+  top: 1194px;
+}
+.views20 {
+  top: 0;
+}
+.specialist-dentist-group,
+.star-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 934.8px;
+  height: 1261.62px;
+}
+.star-icon8 {
+  height: 2.93%;
+  width: 36.53%;
+  top: 32.74%;
+  right: 52.42%;
+  bottom: 64.33%;
+  left: 11.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.doctor-1-item,
+.doctor-21,
+.group-parent5 {
+  position: absolute;
+  top: 0;
+  left: 475.64px;
+  width: 934.8px;
+  height: 1261.62px;
+}
+.doctor-1-item,
+.doctor-21 {
+  top: 243px;
+  left: 38px;
+  width: 1443px;
+}
+.doctor-1-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  width: 1464.57px;
+  height: 351.64px;
+}
+.doctor-1-inner1,
+.group-child12 {
+  position: absolute;
+  width: 358.49px;
+  height: 277.25px;
+}
+.group-child12 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  object-fit: cover;
+}
+.doctor-1-inner1 {
+  top: 37.19px;
+  left: 107.36px;
+}
+.dr-elijah1,
+.specialist-cardiologist3 {
+  position: absolute;
+  top: 94.67px;
+  left: 0;
+  letter-spacing: -0.3px;
+  font-weight: 300;
+  display: inline-block;
+  width: 577.08px;
+  height: 57.48px;
+}
+.dr-elijah1 {
+  top: 0;
+  font-size: var(--font-size-19xl);
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  width: 563.97px;
+  height: 71px;
+}
+.specialist-cardiologist-parent1,
+.star-icon9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 577.08px;
+  height: 152.15px;
+}
+.star-icon9 {
+  height: 15.5%;
+  width: 60.06%;
+  top: 84.5%;
+  right: 25.58%;
+  bottom: 0;
+  left: 14.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.doctor-11,
+.group-parent6 {
+  position: absolute;
+  top: 54.1px;
+  left: 531.43px;
+  width: 577.08px;
+  height: 238.93px;
+}
+.doctor-11 {
+  top: 0;
+  left: 0;
+  width: 1464.57px;
+  height: 351.64px;
+}
+.all-doctors1,
+.views22 {
+  position: absolute;
+  top: 339px;
+  left: -40px;
+  width: 1490px;
+  height: 1934px;
+}
+.views22 {
+  top: 582px;
+  left: 967px;
+  letter-spacing: -0.3px;
+  display: inline-block;
+  width: 422.09px;
+  height: 67.62px;
+}
+.desktop-5 {
+  position: relative;
+  background: linear-gradient(154.59deg, #0babf0, #28ade7 93.23%);
+  width: 100%;
+  height: 1921px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-slategray-100);
+  font-family: var(--font-rubik);
+}

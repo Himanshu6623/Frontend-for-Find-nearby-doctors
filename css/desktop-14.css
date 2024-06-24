@@ -1,0 +1,141 @@
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 80px;
+  height: 80px;
+}
+.group-icon {
+  position: absolute;
+  height: 44.85%;
+  width: 23.02%;
+  top: 25.79%;
+  right: 37.9%;
+  bottom: 29.36%;
+  left: 39.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+
+.rectangle-parent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 38px;
+  left: 37px;
+  width: 80px;
+  height: 80px;
+}
+.find-your-nearby1 {
+  position: absolute;
+  top: 40px;
+  left: 117px;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-poly);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 435px;
+  height: 74px;
+}
+.desktop-14-child {
+  position: absolute;
+  top: 264px;
+  left: 117px;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-white);
+  width: 1192px;
+  height: 976px;
+}
+
+.desktop-14-child1,
+.desktop-14-inner {
+  top: 664px;
+  border: 2px solid var(--color-black);
+}
+.desktop-14-child1 {
+  top: 892px;
+}
+.contact-no,
+.patient-name,
+.your-location {
+  position: absolute;
+  top: 364px;
+  left: 145px;
+  letter-spacing: -0.3px;
+  display: inline-block;
+  width: 375px;
+  height: 72px;
+}
+.contact-no,
+.your-location {
+  top: 580px;
+  height: 84px;
+}
+.your-location {
+  top: 808px;
+}
+.enter,
+.enter1,
+.enter2 {
+  position: absolute;
+  top: 436px;
+  left: 151px;
+  font-size: var(--font-size-15xl);
+  font-weight: 500;
+  letter-spacing: -0.3px;
+  display: flex;
+  align-items: center;
+  width: 1108px;
+  height: 80px;
+}
+.enter1,
+.enter2 {
+  top: 672px;
+}
+.enter2 {
+  top: 896px;
+}
+.desktop-14-child2 {
+  position: absolute;
+  top: 1084px;
+  left: 453px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-deepskyblue);
+  width: 512px;
+  height: 92px;
+}
+.next {
+  position: absolute;
+  top: 1106px;
+  left: 657px;
+  letter-spacing: -0.3px;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 96px;
+  height: 48px;
+}
+.desktop-14 {
+  position: relative;
+  background: linear-gradient(
+    150.45deg,
+    #0babf0,
+    rgba(235, 248, 254, 0.57) 84.04%,
+    rgba(255, 255, 255, 0.32)
+  );
+  width: 100%;
+  height: 1472px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-rubik);
+}

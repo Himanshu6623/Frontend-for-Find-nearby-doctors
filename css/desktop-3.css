@@ -1,0 +1,435 @@
+.desktop-3-child {
+  position: absolute;
+  top: 142px;
+  left: 37px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 1312px;
+  height: 98px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 154px;
+  left: 83px;
+  width: 82px;
+  height: 73px;
+  object-fit: cover;
+}
+.categories,
+.desktop-3-item {
+  position: absolute;
+  top: 389px;
+  height: 60px;
+}
+.desktop-3-item {
+  left: 145px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-lightskyblue);
+  width: 1028px;
+}
+.categories {
+  left: 501px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 251px;
+}
+.image-5-icon {
+  top: 0;
+  left: 0;
+  border-radius: 270px;
+  width: 220px;
+  height: 186px;
+  object-fit: cover;
+}
+.cardiologist,
+.image-5-icon,
+.image-5-parent {
+  cursor: pointer;
+  position: absolute;
+}
+.cardiologist {
+  top: 206px;
+  left: 23px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 235px;
+  height: 48px;
+}
+.image-5-parent {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 540px;
+  left: 50px;
+  width: 258px;
+  height: 254px;
+}
+.dermatologist,
+.endocrinologist,
+.pediatrician {
+  position: absolute;
+  top: 1072px;
+  left: 51px;
+  font-weight: 500;
+  display: inline-block;
+  width: 274px;
+  height: 48px;
+}
+.dermatologist,
+.pediatrician {
+  top: 1420px;
+  left: 66px;
+  width: 244px;
+}
+.dermatologist {
+  top: 1752px;
+  width: 259px;
+}
+.gastroenterologist,
+.geriatrics,
+.otorhinolaryngology,
+.pathologist,
+.urologist {
+  position: absolute;
+  top: 2130px;
+  left: 107px;
+  font-weight: 500;
+  display: inline-block;
+  width: 189px;
+  height: 48px;
+}
+.gastroenterologist,
+.otorhinolaryngology,
+.pathologist,
+.urologist {
+  top: 1763px;
+  left: 570px;
+  width: 234px;
+}
+.gastroenterologist,
+.otorhinolaryngology,
+.urologist {
+  top: 2130px;
+  left: 551px;
+  width: 312px;
+}
+.otorhinolaryngology,
+.urologist {
+  left: 992px;
+  width: 361px;
+}
+.urologist {
+  top: 1765px;
+  left: 1063px;
+  width: 193px;
+}
+.neurologist,
+.oncologist,
+.ophthalmology,
+.psychiatrist,
+.radiologist,
+.surgeon {
+  position: absolute;
+  top: 1420px;
+  left: 561px;
+  font-weight: 500;
+  display: inline-block;
+  width: 243px;
+  height: 48px;
+}
+.neurologist,
+.oncologist,
+.ophthalmology,
+.radiologist,
+.surgeon {
+  left: 1041px;
+  width: 215px;
+}
+.neurologist,
+.ophthalmology,
+.radiologist,
+.surgeon {
+  top: 1072px;
+  left: 551px;
+  width: 281px;
+}
+.neurologist,
+.radiologist,
+.surgeon {
+  left: 1041px;
+  width: 215px;
+}
+.neurologist,
+.surgeon {
+  top: 755px;
+  left: 602px;
+  width: 190px;
+}
+.neurologist {
+  top: 746px;
+  left: 1065px;
+  width: 230px;
+}
+.image-6-icon,
+.image-9-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-9-icon {
+  top: 854px;
+  left: 551px;
+  border-radius: 255px;
+  width: 236px;
+  height: 186px;
+}
+.image-6-icon {
+  top: 517px;
+  left: 567px;
+  border-radius: var(--br-71xl);
+  width: 225px;
+  height: 225px;
+}
+.image-10-icon,
+.image-7-icon {
+  position: absolute;
+  top: 551px;
+  left: 1030px;
+  border-radius: 291.5px;
+  width: 201.18px;
+  height: 185px;
+  object-fit: cover;
+}
+.image-10-icon {
+  top: 871px;
+  left: 1014px;
+  border-radius: 320px;
+  width: 242px;
+  height: 186px;
+}
+.image-11-icon,
+.image-12-icon,
+.image-13-icon {
+  position: absolute;
+  top: 1203px;
+  height: 186px;
+  object-fit: cover;
+}
+.image-11-icon {
+  left: 50px;
+  border-radius: var(--br-231xl);
+  width: 260px;
+}
+.image-12-icon,
+.image-13-icon {
+  left: 527px;
+  width: 277px;
+}
+.image-13-icon {
+  top: 1217px;
+  left: 1018px;
+  border-radius: 258.5px;
+  width: 250px;
+  height: 172.22px;
+}
+.image-14-icon,
+.image-15-icon,
+.image-16-icon,
+.image-17-icon {
+  position: absolute;
+  top: 1553px;
+  left: 66px;
+  border-radius: var(--br-231xl);
+  width: 282px;
+  height: 179px;
+  object-fit: cover;
+}
+.image-15-icon,
+.image-16-icon,
+.image-17-icon {
+  left: 527px;
+  width: 305px;
+}
+.image-16-icon,
+.image-17-icon {
+  top: 1566px;
+  left: 1004px;
+  width: 279px;
+  height: 186px;
+}
+.image-17-icon {
+  top: 1883px;
+  left: 61px;
+  border-radius: var(--br-71xl);
+  width: 283px;
+  height: 227px;
+}
+.image-18-icon {
+  top: 1907px;
+  left: 522px;
+  border-radius: var(--br-231xl);
+  width: 310px;
+  height: 175px;
+}
+.image-18-icon,
+.image-19-icon,
+.image-8-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-8-icon {
+  top: 854px;
+  left: 53px;
+  border-radius: 424.5px;
+  width: 246px;
+  height: 186px;
+}
+.image-19-icon {
+  top: 1885px;
+  left: 1004px;
+  border-radius: var(--br-231xl);
+  width: 301px;
+  height: 225px;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 80px;
+  height: 80px;
+}
+.group-icon {
+  position: absolute;
+  height: 44.85%;
+  width: 23.02%;
+  top: 25.79%;
+  right: 37.9%;
+  bottom: 29.36%;
+  left: 39.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-button,
+.input {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.group-button {
+  cursor: pointer;
+  padding: 0;
+  top: 27px;
+  left: 37px;
+  width: 80px;
+  height: 80px;
+}
+.input {
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-13xl);
+  top: 165px;
+  left: 187px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 1085px;
+  height: 62px;
+}
+.desktop-3-inner {
+  position: absolute;
+  top: 336.5px;
+  left: 28.5px;
+  border-top: 5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 1329px;
+  height: 5px;
+}
+.desktop-3-child1 {
+  position: absolute;
+  top: 275px;
+  left: 31px;
+  background-color: var(--color-cornflowerblue);
+  width: 239px;
+  height: 58px;
+}
+.categories1 {
+  position: absolute;
+  top: 280px;
+  left: 58px;
+  font-weight: 500;
+  display: inline-block;
+  width: 185px;
+  height: 40px;
+}
+.group-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lavender);
+  width: 239px;
+  height: 58px;
+}
+.diseases {
+  position: absolute;
+  top: 9px;
+  left: 29px;
+  font-weight: 500;
+  display: inline-block;
+  width: 150px;
+  height: 40px;
+}
+.desktop-3-child2,
+.rectangle-parent1 {
+  position: absolute;
+  top: 275px;
+  left: 270px;
+  width: 239px;
+  height: 58px;
+}
+.desktop-3-child2 {
+  left: 619px;
+  background-color: var(--color-lavender);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 736px;
+  height: 57px;
+}
+.find-your-nearby {
+  position: absolute;
+  top: 277px;
+  left: 620px;
+  font-family: var(--font-poly);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 735px;
+  height: 55px;
+  cursor: pointer;
+}
+.desktop-3 {
+  position: relative;
+  background: linear-gradient(
+    156.63deg,
+    #87cdec,
+    rgba(125, 198, 229, 0.78) 23.44%,
+    rgba(119, 185, 214, 0.9) 38.54%,
+    rgba(84, 171, 209, 0.98) 51.56%,
+    #6aabc7 66.67%,
+    rgba(255, 255, 255, 0.49)
+  );
+  width: 100%;
+  height: 2228px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
