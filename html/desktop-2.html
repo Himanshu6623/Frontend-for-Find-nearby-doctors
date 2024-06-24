@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{{url_for('static',filename='css/global.css')}}" />
+    <link rel="stylesheet" href="{{url_for('static',filename='css/desktop-2.css')}}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Stoke:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Shippori Mincho:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Serif:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poly:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Sans:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="desktop-2-child"></div>
+      <div class="desktop-2-item"></div>
+      <div class="personal-information">PERSONAL INFORMATION</div>
+      <div class="desktop-2-inner"></div>
+      <div class="address">ADDRESS</div>
+      <button
+        class="desktop-2-child1"
+        autofocus="{true}"
+        id="rectangleButton"
+      ></button>
+
+    <form method="post">  
+      <a href="desktop-3.html"><button class="submit" autofocus="{true}">Submit</button></a>
+      <div class="name" for='name'>Name</div>
+      <div class="desktop-2-child2"></div>
+      <input class="enter-the-your" name='name' placeholder="Enter your name" type="text" required>
+
+      <div class="gender" for="gender">Gender</div>
+      <div class="desktop-2-child3"></div>
+      <input class="male-female-or" name='gender'placeholder="Male,Female or Others"  type="text" required>
+
+      <div class="date-of-birth" for="date-of-birth">Date Of Birth</div>
+      <div class="desktop-2-child4"></div>
+      <input class="enter-the-your1" name="date-of-birth" placeholder="Enter your dateofbirth"  type="date" required>
+
+      <div class="contact-no" for="contact-no">Contact No</div>
+      <div class="desktop-2-child5"></div>
+      <input class="enter-the-your2" name="contact-no" placeholder="Enter your contact number"  type="tel" required>
+
+      <div class="email-id" for="email-id">Email ID</div>
+      <div class="desktop-2-child6"></div>
+      <input class="enter-the-your3" name="email-id" placeholder="Enter your emailid"  type="email" required>
+
+      <div class="confirm-password" for="confirm-password">Confirm Password</div>
+      <div class="desktop-2-child7"></div>
+      <input class="confirm-the-your" name="confirm-password" placeholder="confirm your password" maxlength="10" type="password" required>
+
+      <div class="password" for="password">Password</div>
+      <div class="desktop-2-child9"></div>
+      <input class="enter-the-your5"  name="password" placeholder="Enter your password" maxlength="10" type="password" required>
+
+      <div class="city" for="city">City</div>
+      <div class="desktop-2-child10"></div>
+      <input class="enter-the-your6" name="city" placeholder="Enter your city name"  type="text" required>
+
+      <div class="address1" for="address1">Address</div>
+      <div class="desktop-2-child11"></div>
+      <input class="enter-the-your7" name="address1" placeholder="Enter your address"  type="text" required>
+
+      <div class="state" for="state">State</div>
+      <div class="desktop-2-child12"></div>
+      <input class="enter-the-your8"  name="state" placeholder="Enter your state name"  type="text" required>
+    </form>
+    {% if error_message %}
+      <p class="error_message">{{error_message}}</p>
+    {% endif %}
+      <img class="image-3-icon" alt="" src="{{url_for('static', filename='/image/image-3@2x.png')}}" />
+
+      <a href="index.html"><button class="rectangle-parent5" autofocus="{true}" id="groupButton">
+        <div class="group-child16"></div>
+        <img class="group-icon5" alt="" src="{{url_for('static', filename='/image/group5.svg')}}" />
+      </button></a>
+    </div>
+
+    <script>
+      var rectangleButton = document.getElementById("rectangleButton");
+      if (rectangleButton) {
+        rectangleButton.addEventListener("click", function (e) {
+          window.location.href = "./desktop-3.html";
+        });
+      }
+      
+      var groupButton = document.getElementById("groupButton");
+      if (groupButton) {
+        groupButton.addEventListener("click", function (e) {
+          window.location.href = "./index.html";
+        });
+      }
+      </script>
+  </body>
+</html>

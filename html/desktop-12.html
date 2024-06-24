@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{{url_for('static',filename='css/global.css')}}" />
+    <link rel="stylesheet" href="{{url_for('static',filename='css/desktop-12.css')}}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Stoke:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Shippori Mincho:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Serif:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poly:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Sans:wght@400&display=swap"
+    />
+    <script>
+      function submitValue() {
+        // Get the value entered by the user
+        var input = document.getElementById('value-input');
+        var value = input.value;
+        var input1 = document.getElementById('value-input1');
+        var value1 = input1.value;
+        
+        // Store the value in localStorage
+        localStorage.setItem('myValue', value);
+        localStorage.setItem('myValue1', value1);
+        
+        // Redirect to the second page
+        window.location.href = 'desktop-13.html';
+      }
+    </script>
+  </head>
+  <body>
+    <div class="desktop-12">
+      <div class="desktop-12-child"></div>
+      <a href="desktop-11.html"><button class="rectangle-parent2" autofocus="{true}" id="groupButton">
+        <div class="group-child4"></div>
+        <img class="group-icon2" alt="" src="{{url_for('static',filename='/image/group2.svg')}}" />
+      </button></a>
+      <div class="appointment1">Appointment</div>
+      <div class="dr-pediatrician1">
+        <div class="dr-pediatrician-item"></div>
+        <div class="text2">
+          <div class="specialist-cardiologist1">Specialist Cardiologist</div>
+          <div class="dr-eijah1">Dr. Eijah</div>
+          <div class="rs-50000hr1">
+            <span class="rs-5001">Rs 500</span>
+            <span class="hr1">.00/hr</span>
+          </div>
+        </div>
+        <div class="image1">
+          <img class="image-item" alt="" src="{{url_for('static',filename='/image/rectangle-5062@2x.png')}}" />
+        </div>
+        <img class="star-icon1" alt="" src="{{url_for('static',filename='/image/star1.svg')}}" />
+      </div>
+      <form method="post" action> 
+        <div class="patient-name2" for="patient-name2">Patient name</div>
+        <div class="desktop-12-item"></div>
+        <input class="enter5" id="patient-name2" name="patient-name2" placeholder="Enter your name"  type="text" required>
+        <div class="patient-age" for="patient-age">Patient age</div>
+        <div class="desktop-12-inner"></div>
+        <input class="enter7" id="patient-age" name="patient-age" placeholder="Enter your age"  type="number" required>
+        <div class="contact-no1" for="contact-no1">Contact no</div>
+        <div class="desktop-12-child1"></div>
+        <input class="enter6" id="contactno" name="contact-no1" placeholder="Enter your contact no"  type="tel" required>
+        <div class="appointment-date1" for="appointment_date1">Appointment date</div>
+        <div class="desktop-12-child2"></div>
+        <input class="enter8" id="value-input" name="appointment_date1" placeholder="Enter the appointment date"  type="date" required>
+        <div class="appointment-time1" for="appointment_time1">Appointment time</div>
+        <div class="desktop-12-child4"></div>
+        <input class="enter9" id="value-input1" name="appointment_time1" min="07:00" max="20:00" placeholder="Enter the appointment time"  type="time" required>
+        <div class="schedule-appointment1">Schedule Appointment</div>
+        <div class="desktop-12-child3"></div>
+        <a href="desktop-13.html"><button onclick="submitValue()"class="rectangle-parent3">
+          <div class="group-child5"></div>
+          <div class="schedule-now1" id="scheduleNowText">Schedule now</div>
+        </button></a>
+      </form>
+      {% if error_message %}
+      <p class="error_message">{{error_message}}</p>
+      {% endif %}
+    </div>
+
+
+    <script>
+      var groupButton = document.getElementById("groupButton");
+      if (groupButton) {
+        groupButton.addEventListener("click", function (e) {
+          window.location.href = "./desktop11.html";
+        });
+      }
+      
+      var scheduleNowText = document.getElementById("scheduleNowText");
+      if (scheduleNowText) {
+        scheduleNowText.addEventListener("click", function (e) {
+          window.location.href = "./desktop13.html";
+        });
+      }
+      </script>
+  </body>
+</html>

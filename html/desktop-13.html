@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{{url_for('static',filename='css/global.css')}}" />
+    <link rel="stylesheet" href="{{url_for('static',filename='css/desktop-13.css')}}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Stoke:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Shippori Mincho:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Serif:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poly:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Sans:wght@400&display=swap"
+    />
+    <script>
+      window.onload = function() {
+        // Get the value from localStorage
+        var value = localStorage.getItem('myValue');
+        var value1 = localStorage.getItem('myValue1');
+        
+        // Display the value on the page
+        var output = document.getElementById('value-output');
+        var output1 = document.getElementById('value-output1');
+        output.innerText = value;
+        output1.innerText = value1;
+      };
+    </script>
+  </head>
+  <body>
+    <div class="desktop-13">
+      <div class="desktop-13-child"></div>
+      <button class="group-button" autofocus="{true}" id="groupButton">
+        <div class="group-child2"></div>
+        <img class="group-icon" alt="" src="./public/group.svg" />
+      </button>
+      <div class="appointment">Appointment</div>
+      <div class="dr-pediatrician">
+        <div class="dr-pediatrician-child"></div>
+        <div class="text">
+          <div class="specialist-cardiologist">Specialist Cardiologist</div>
+          <div class="dr-eijah">Dr. Eijah</div>
+          <div class="rs-50000hr">
+            <span class="rs-500">Rs 500</span>
+            <span class="hr">.00/hr</span>
+          </div>
+        </div>
+        <div class="image">
+          <img class="image-child" alt="" src="./public/rectangle-506@2x.png" />
+        </div>
+        <img class="star-icon" alt="" src="./public/star.svg" />
+      </div>
+      <div class="desktop-13-item"></div>
+      <div class="desktop-13-inner"></div>
+      <div class="desktop-13-child1"></div>
+      <div class="desktop-13-child2"></div>
+      <div class="desktop-13-child3"></div>
+      <div class="patient-name">Patient name</div>
+      <div class="patient-name1">Patient name</div>
+      <div class="contact-no">Contact no</div>
+      <div class="appointment-date">Appointment date</div>
+      <div class="appointment-time">Appointment time</div>
+      <div class="desktop-13-child4"></div>
+      <div class="schedule-appointment">Schedule Appointment</div>
+      <div class="desktop-13-child5"></div>
+      <div class="schedule-now">Schedule now</div>
+      <div class="enter">Enter</div>
+      <div class="enter1">
+        <span class="enter-txt">
+          <span class="ente">Ente</span>
+          <span class="r">r</span>
+        </span>
+      </div>
+      <div class="enter2">Enter</div>
+      <div class="enter3">Enter</div>
+      <div class="enter4">Enter</div>
+      <div class="thank-you">
+        <div class="thank-you-child"></div>
+        <div class="thank-you-item"></div>
+        <div class="button" id="buttonContainer">
+          <div class="rectangle-parent1">
+            <div class="group-child3"></div>
+            <div class="done">Done</div>
+          </div>
+        </div>
+        <div class="text1">
+          <div class="you-booked-an-container">
+            <p class="you-booked-an">You booked an appointment with</p>
+            <div class="you-booked-an">Dr.Eijah on<div id="value-output" type="date"></div>at<div id="value-output1" type="number"></div></div>
+          </div>
+          <div class="your-appointment-successful">
+            Your Appointment Successful
+          </div>
+          <div class="thank-you1">Thank You !</div>
+        </div>
+        <img class="thank-you-inner" alt="" src="{{url_for('static',filename='/image/group1.svg')}}" />
+      </div>
+    </div>
+
+    <script>
+      var groupButton = document.getElementById("groupButton");
+      if (groupButton) {
+        groupButton.addEventListener("click", function (e) {
+          window.location.href = "./desktop11.html";
+        });
+      }
+      
+      var buttonContainer = document.getElementById("buttonContainer");
+      if (buttonContainer) {
+        buttonContainer.addEventListener("click", function (e) {
+          window.location.href = "./desktop-3.html";
+        });
+      }
+      </script>
+  </body>
+</html>

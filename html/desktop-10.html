@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="{{url_for('static',filename='css/global.css')}}" />
+    <link rel="stylesheet" href="{{url_for('static',filename='css/desktop-11.css')}}" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Stoke:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Shippori Mincho:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Serif:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poly:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Sans:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-11">
+      <div class="dr-pediatrician2">
+        <div class="dr-pediatrician-inner"></div>
+        <div class="text3">
+          <div class="specialist-cardiologist2">Specialist Chickenpox</div>
+          <div class="dr-eijah2">Dr. Eijah</div>
+          <div class="rs-50000hr2">
+            <span class="rs-5002">Rs 500</span>
+            <span class="hr2">.00/hr</span>
+          </div>
+        </div>
+        <a href="desktop-12.html"><div class="button1" id="buttonContainer">
+          <div class="button-child"></div>
+          <div class="book-now">Book Now</div>
+        </div></a>
+        <div class="image2">
+          <img
+            class="image-inner"
+            alt=""
+            src="{{url_for('static',filename='/image/rectangle-5062@2x.png')}}"
+          />
+        </div>
+        <img class="star-icon2" alt="" src="{{url_for('static',filename='/image/star2.svg')}}" />
+      </div>
+      <button class="rectangle-parent4" autofocus="{true}" id="groupButton">
+        <div class="group-child6"></div>
+        <img class="group-icon2" alt="" src="{{url_for('static',filename='/image/group2.svg')}}" />
+      </button>
+      <div class="doctor-details">Doctor Details</div>
+      <img class="map-icon" alt="" src="{{url_for('static',filename='/image/map.svg')}}" />
+
+      <div class="tab">
+        <div class="tab-child"></div>
+        <div class="patient">
+          <div class="patient-child"></div>
+          <div class="patient1">Patient</div>
+          <div class="div">700</div>
+        </div>
+        <div class="ongoing">
+          <div class="patient-child"></div>
+          <div class="ongoing1">Ongoing</div>
+          <div class="div1">500</div>
+        </div>
+        <div class="runing">
+          <div class="patient-child"></div>
+          <div class="runing1">Runing</div>
+          <div class="div2">100</div>
+        </div>
+      </div>
+      <div class="image-28-parent">
+        <img class="image-28-icon" alt="" src="{{url_for('static',filename='/image/image-28@2x.png')}}" />
+
+        <div class="reviews">Reviews</div>
+      </div>
+    </div>
+
+    <script>
+      var buttonContainer = document.getElementById("buttonContainer");
+      if (buttonContainer) {
+        buttonContainer.addEventListener("click", function (e) {
+          window.location.href = "./desktop12.html";
+        });
+      }
+      
+      var groupButton = document.getElementById("groupButton");
+      if (groupButton) {
+        groupButton.addEventListener("click", function (e) {
+          window.location.href = "./desktop-5.html";
+        });
+      }
+      </script>
+  </body>
+</html>
